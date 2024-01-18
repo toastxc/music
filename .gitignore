@@ -12,3 +12,9 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+flamegraph.svg
+perf.data.old
+perf.data
+.idea/vcs.xml
+.idea/modules.xml
+.idea/hypixel-gui.iml
